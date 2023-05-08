@@ -1,0 +1,4 @@
+name: Gems
+version: '${version}'
+main: gems.gems.Gems
+api-version: 1.19
