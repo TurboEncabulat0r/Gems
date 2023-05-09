@@ -1,0 +1,14 @@
+name: Gems
+version: '1.0-SNAPSHOT'
+main: gems.gems.Gems
+author: 'Turbo'
+commands:
+  claim:
+    description: Claims a code
+    usage: /<command> <Code>
+    gems: claim
+  forceEvent:
+    description: Force an event
+    usage: /<command>
+    gems: forceEvent
+api-version: 1.19
